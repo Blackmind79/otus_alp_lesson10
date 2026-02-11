@@ -104,10 +104,10 @@ LOGO=ubuntu-logo
 ## Выполнение задания и особенности работы скриптов
 
 Итоговый скрипт находится в папке `files/report_script.sh`.
-Для работы отправки файла отчета на e-mail требуется установкить пакет `swak`.
+Для работы отправки файла отчета на e-mail требуется установкить пакет `swaks`.
 
 ```bash
-sudo apt-get update && sudo apt-get install -y swak
+sudo apt-get update && sudo apt-get install -y swaks
 ```
 
 Также требуется создать пароль приложения для вашей почты на Яндекс.Почте
